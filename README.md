@@ -1,2 +1,2 @@
 # projetinhos
-projetos extras
+projetos extras feito para estudo e teste
